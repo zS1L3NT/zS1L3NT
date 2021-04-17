@@ -21,25 +21,25 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 - Javascript `[90%]`
     - ReactJS `[80%]`
     - NodeJS `[90%]`
-    - VueJS `[30%]`
+    - VueJS `[40%]`
 - PHP `[45%]`
-    - Laravel `[15%]`
+    - Laravel `[20%]`
 - Firebase `[80%]`
     - Firebase Authentication `[70%]`
     - Firebase Firestore `[80%]`
     - Firebase RealtimeDB `[80%]`
 - HTML `[95%]`
 - CSS `[85%]`
-    - SCSS `[85%]`
+    - SCSS `[75%]`
     - Bootstrap `[30%]`
 - Android Studio `[50%]`
 - Java `[60%]`
-- Python `[85%]`
+- Python `[75%]`
 - C++ `[20%]`
 - Rust `[20%]`
 - Databases
     - MongoDB `[65%]`
-    - MySQL `[65%]`
+    - MySQL `[60%]`
 
 ## 🌱 What I'm currenly learning
 **Laravel and Vue**<br>
