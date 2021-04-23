@@ -1,4 +1,4 @@
-# 👨‍💻 Zechariah Tan's Profile
+# 👨‍💻 Zechariah Tan's GitHub Profile
 StackOverflow profile: https://stackoverflow.com/users/7544646/zs1l3nt
 
 ## 👋 Introduction
