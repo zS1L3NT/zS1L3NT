@@ -1,5 +1,5 @@
 # 👨‍💻 Zechariah Tan's GitHub Profile
-StackOverflow profile: https://stackoverflow.com/users/7544646/zs1l3nt
+StackOverflow profile: https://stackoverflow.com/users/7544646/zs1l3nt<br>
 SoloLearn profile: https://www.sololearn.com/profile/4581584
 
 ## 👋 Introduction
