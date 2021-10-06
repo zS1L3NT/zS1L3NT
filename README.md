@@ -10,6 +10,17 @@ I was 13 years old, 2017, when I first saw my friend show me this cool "trick" o
 
 In January 2020, I went to the Polytechnic open houses in Singapore to take a look at the courses available. It was then that my interest in Programming was sparked again. From then till today, I have been pursuing my passion for programming
 
+## 💻 What I'm working on **right now**
+
+### What To Eat (NodeTS)
+What To Eat is my school project which is just a restaurant review website.
+
+### Statify (ReactTS, Redux)
+Statify is a website for you to check your Spotify listening history. This is built with the Spotify API. This website is to warm me up in my Atomic Design so that I can apply it in my Portfolio website.
+
+### Portfolio (ReactTS)
+This is my Portfolio website which will give a better description of me, showcase all my projects and test my Atomic Design skills.
+
 ## 😎 What I am familiar with
 I spend almost all my time on a few large projects. When I have free time, I explore new technologies.
 
@@ -18,40 +29,41 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 - Typescript `[100%]`
     - ReactTS `[80%]`
     - NodeTS `[100%]`
-    - Angular `[25%]`
+    - Angular `[20%]`
     - DiscordTS `[95%]`
 - Javascript `[100%]`
     - ReactJS `[90%]`
     - NodeJS `[100%]`
-    - VueJS `[70%]`
-- PHP `[35%]`
-    - Laravel `[30%]`
+    - VueJS `[75%]`
+- PHP `[40%]`
+    - Laravel `[40%]`
 - Firebase `[80%]`
     - Firebase Authentication `[70%]`
     - Firebase Firestore `[90%]`
     - Firebase RealtimeDB `[75%]`
 - HTML `[95%]`
-- CSS `[75%]`
+- CSS `[80%]`
     - SCSS `[50%]`
-    - Bootstrap `[45%]`
+    - Bootstrap `[55%]`
 - Android Studio `[90%]`
 - Java `[95%]`
-- Kotlin `[70%]`
+- Kotlin `[60%]`
 - Python `[60%]`
 - C++ `[15%]`
-- Rust `[15%]`
+- Rust `[25%]`
 - Databases
     - MongoDB `[70%]`
-    - MySQL `[85%]`
+    - MySQL `[90%]`
 
 ## 🌱 What I'm currenly learning
-**Laravel and Vue**<br>
+**Laravel and VueJS**<br>
 I need to be very familiar with these new web technologies because in my Polytechnic, I will be training for a competition called WorldSkills which uses these two Frameworks
 
-**Rust**<br>
-As a Typescripter, Rust seems like a really cool version of Typescript which has great performance and doesn't have Typescript memory issues, since it uses the concept of Ownership
+**React with Atomic Design**
+Even though I have done lots of React, I think it's good to learn a new way to write my React Applications, especially with structure.
+
+**React Native**
+As a React lover, I find the TypeScript React environment very confortable and I want to try something else outside my usual scope but still not very far from what I do.
 
 ## 🎉 What I do in my free time
-I am a big fan of the board game Chess. I have been recently spending a few hours a week just playing Chess and studying my own games. My rating is still low but I still enjoy Chess. I find it a very intense game because it is a battle of two minds to see who can outplay who.
-
 I am a fan of IU, a Korean singer, songwrite and actress! I love Korean dramas and also spend a lot of nights just binging on episodes that never seem to end
