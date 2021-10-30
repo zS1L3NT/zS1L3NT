@@ -1,7 +1,7 @@
 # 👨‍💻 Zechariah Tan's GitHub Profile
 StackOverflow profile: https://stackoverflow.com/users/7544646/zs1l3nt<br>
 SoloLearn profile: https://www.sololearn.com/profile/4581584<br>
-LinkedIn profile: https://www.linkedin.com/in/zechariah-tan-b710311b2/
+LinkedIn profile: https://www.linkedin.com/in/zechariah-sg/
 
 ## 👋 Introduction
 Hello! I am Zechariah Tan of Temasek Polytechnic Singapore. I build websites and bots for myself and friends for fun, but hope to make a living through it.
