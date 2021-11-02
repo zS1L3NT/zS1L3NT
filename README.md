@@ -12,9 +12,6 @@ In January 2020, I went to the Polytechnic open houses in Singapore to take a lo
 
 ## 💻 What I'm working on **right now**
 
-### What To Eat (NodeTS)
-What To Eat is my school project which is just a restaurant review website.
-
 ### Statify (ReactTS, Redux)
 Statify is a website for you to check your Spotify listening history. This is built with the Spotify API. This website is to warm me up in my Atomic Design so that I can apply it in my Portfolio website.
 
