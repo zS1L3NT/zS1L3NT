@@ -28,6 +28,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
     - NodeTS `[100%]`
     - Angular `[20%]`
     - DiscordTS `[95%]`
+    - React Native `[50%]`
 - Javascript `[100%]`
     - ReactJS `[90%]`
     - NodeJS `[100%]`
@@ -46,7 +47,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 - Java `[95%]`
 - Kotlin `[60%]`
 - Python `[60%]`
-- C++ `[15%]`
+- C++ `[30%]`
 - Rust `[25%]`
 - Databases
     - MongoDB `[70%]`
