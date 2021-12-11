@@ -23,13 +23,13 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 
 `[Percent wrapped in brackets shows my confidence in a technology]`
 
-- Typescript `[100%]`
+- TypeScript `[100%]`
     - ReactTS `[80%]`
     - NodeTS `[100%]`
     - Angular `[20%]`
-    - DiscordTS `[95%]`
+    - DiscordTS `[100%]`
     - React Native `[50%]`
-- Javascript `[100%]`
+- JavaScript `[100%]`
     - ReactJS `[90%]`
     - NodeJS `[100%]`
     - VueJS `[75%]`
