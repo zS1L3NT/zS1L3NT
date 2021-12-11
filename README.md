@@ -43,7 +43,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 - CSS `[80%]`
     - SCSS `[50%]`
     - Bootstrap `[55%]`
-- Android Studio `[90%]`
+- Android Development `[70%]`
 - Java `[95%]`
 - Kotlin `[60%]`
 - Python `[60%]`
