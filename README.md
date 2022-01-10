@@ -61,7 +61,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 - Linux `[45%]`
 - Git `[65%]`
 
-## 🌱 What I'm currenlty learning
+## 🌱 What I'm currently learning
 **Laravel**<br>
 I need to be very familiar with Laravel because in my Polytechnic, I will be training for a competition called WorldSkills which uses it
 
