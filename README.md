@@ -24,16 +24,16 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 `[Percent wrapped in brackets shows my confidence in a technology]`
 
 - TypeScript `[100%]`
-    - ReactTS `[100%]`
-    - NodeTS `[100%]`
+    - React `[100%]`
+    - Node `[100%]`
     - Angular `[20%]`
-    - DiscordTS `[100%]`
+    - Discord `[100%]`
     - React Native `[50%]`
-    - NextTS `[70%]`
+    - Next `[70%]`
 - JavaScript `[100%]`
-    - ReactJS `[90%]`
-    - NodeJS `[100%]`
-    - VueJS `[75%]`
+    - React `[90%]`
+    - Node `[100%]`
+    - Vue `[75%]`
 - PHP `[40%]`
     - Laravel `[40%]`
 - Firebase `[80%]`
