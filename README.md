@@ -29,6 +29,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
     - Angular `[20%]`
     - DiscordTS `[100%]`
     - React Native `[50%]`
+    - NextTS `[70%]`
 - JavaScript `[100%]`
     - ReactJS `[90%]`
     - NodeJS `[100%]`
@@ -55,7 +56,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 - C# `[45%]`
     - Unity `[10%]`
 - Python `[60%]`
-- C++ `[30%]`
+- C++ `[35%]`
 - Rust `[25%]`
 - NGINX `[40%]`
 - Linux `[45%]`
