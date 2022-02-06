@@ -12,11 +12,11 @@ In January 2020, I went to the Polytechnic open houses in Singapore to take a lo
 
 ## 💻 What I'm working on **right now**
 
-### Statify (ReactTS, Redux)
-Statify is a website for you to check your Spotify listening history. This is built with the Spotify API. This website is to warm me up in my Atomic Design so that I can apply it in my Portfolio website.
-
 ### Portfolio (ReactTS)
 This is my Portfolio website which will give a better description of me, showcase all my projects and my TailWind Skills.
+
+### SounDroid v2 (Android Kotlin)
+I am rebuilding my [music streaming app](https://github.com/zS1L3NT/android-soundroid-v1) with new features and less bugs
 
 ## 😎 What I am familiar with
 I spend almost all my time on a few large projects. When I have free time, I explore new technologies.
@@ -50,9 +50,9 @@ I spend almost all my time on a few large projects. When I have free time, I exp
     - MongoDB `[70%]`
     - MySQL `[90%]`
 - Java `[95%]`
-    - Android Development `[60%]` 
-- Kotlin `[60%]`
-    - Android Development `[50%]`
+    - Android Development `[65%]` 
+- Kotlin `[80%]`
+    - Android Development `[65%]`
 - C# `[45%]`
     - Unity `[10%]`
 - Python `[60%]`
@@ -65,9 +65,6 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ## 🌱 What I'm currently learning
 **Laravel**<br>
 I need to be very familiar with Laravel because in my Polytechnic, I will be training for a competition called WorldSkills which uses it
-
-**React Design Frameworks**<br>
-Even though I have done lots of React, I think it's good to learn a few design frameworks to broaden my knowledge of web design
 
 **C++**<br>
 I enjoy the memory management in C++ and hope to one day build a major project with C++
