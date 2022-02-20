@@ -57,7 +57,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
     - Unity `[10%]`
 - Python `[60%]`
 - C++ `[35%]`
-- Rust `[25%]`
+- Rust `[60%]`
 - NGINX `[40%]`
 - Linux `[45%]`
 - Git `[65%]`
@@ -66,8 +66,8 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 **Laravel**<br>
 I need to be very familiar with Laravel because in my Polytechnic, I will be training for a competition called WorldSkills which uses it
 
-**C++**<br>
-I enjoy the memory management in C++ and hope to one day build a major project with C++
+**Rust**<br>
+I am starting to love Rust because of how much flexibility we are given in the language
 
 ## 🎉 What I do in my free time
 I am a fan of IU, a Korean singer, songwrite and actress! I love Korean dramas and also spend a lot of nights just binging on episodes that never seem to end
