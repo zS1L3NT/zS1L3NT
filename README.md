@@ -18,6 +18,9 @@ This is my Portfolio website which will give a better description of me, showcas
 ### SounDroid v2 (Android Kotlin)
 I am rebuilding my [music streaming app](https://github.com/zS1L3NT/android-soundroid-v1) with new features and less bugs
 
+### ZecJS (Rust)
+I am attempting to build a JavaScript Interpreter fully in Rust
+
 ## 😎 What I am familiar with
 I spend almost all my time on a few large projects. When I have free time, I explore new technologies.
 
@@ -57,7 +60,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
     - Unity `[10%]`
 - Python `[60%]`
 - C++ `[35%]`
-- Rust `[60%]`
+- Rust `[65%]`
 - NGINX `[40%]`
 - Linux `[45%]`
 - Git `[65%]`
