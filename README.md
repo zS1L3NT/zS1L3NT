@@ -15,13 +15,13 @@ In January 2020, I went to the Polytechnic open houses in Singapore to take a lo
 
 ## 💻 What I'm working on **right now**
 
-### [Portfolio (ReactTS)](https://github.com/zS1L3NT/web-next-portfolio)
+### [Formby (ReactTS & Laravel)](https://github.com/zS1L3NT/web-formby)
 
-This is my Portfolio website which will give a better description of me, showcase all my projects and improve my TailWind skills.
+Formby is a website like Google forms that I am submitting for a school assignment
 
-### [SounDroid v2 (Android Kotlin)](https://github.com/zS1L3NT/android-soundroid-v2)
+### [SounDroid (Android Flutter)](https://github.com/zS1L3NT/android-flutter-soundroid)
 
-I am rebuilding my [music streaming app](https://github.com/zS1L3NT/android-soundroid-v1) with new features and less bugs.
+I am rebuilding my [music streaming app](https://github.com/zS1L3NT/android-soundroid-v1) with new features and fewer bugs.
 
 ### [ZecJS (Rust)](https://github.com/zS1L3NT/rs-zecjs)
 
