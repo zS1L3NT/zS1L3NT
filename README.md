@@ -112,7 +112,7 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/65"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/70"
 			/>
 		</td>
 	</tr>
@@ -127,7 +127,7 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/60"
 			/>
 		</td>
 		<td>
@@ -183,7 +183,7 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/60"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"
 			/>
 		</td>
 		<td>
@@ -196,7 +196,7 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/35"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30"
 			/>
 		</td>
 	</tr>
@@ -326,7 +326,7 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/60"
 			/>
 		</td>
 	</tr>
@@ -341,7 +341,7 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/70"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"
 			/>
 		</td>
 		<td>
@@ -375,21 +375,6 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-			/>
-		</td>
-		<td>React Native</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
 				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
 			/>
 		</td>
@@ -400,6 +385,36 @@ The progressbar displays my confidence in using a specific technology.
 				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/65"
 			/>
 		</td>
+	</tr>
+	<tr>
+		<td>
+			<img
+				height="16"
+				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+			/>
+		</td>
+		<td>React Native</td>
+		<td>
+			<img
+				height="16"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"
+			/>
+		</td>
+		<td>
+			<img
+				height="16"
+				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+			/>
+		</td>
+		<td>Flutter</td>
+		<td>
+			<img
+				height="16"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"
+			/>
+		</td>
+	</tr>
+	<tr>
 		<td>
 			<img
 				height="16"
@@ -497,7 +512,7 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"
 			/>
 		</td>
 	</tr>
