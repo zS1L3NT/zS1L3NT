@@ -8,10 +8,12 @@
 ## 👋 Introduction
 
 Hello! I am Zechariah Tan of Temasek Polytechnic Singapore. I build websites and bots for myself and friends for fun, but hope to make a living through it.
-
 I was 13 years old, 2017, when I first saw my friend show me this cool "trick" of Inspect Element on websites. I was amazed at how complex the HTML code of the website was, which inspired me to learn how to build my own websites. I started off learning HTML, CSS and JS but dropped it because I had low motivation to continue.
+In January 2020, I went to the Polytechnic open houses in Singapore to take a look at the courses available. It was then that my interest in Programming was sparked again. From then till today, I have been pursuing my passion for programming.
 
-In January 2020, I went to the Polytechnic open houses in Singapore to take a look at the courses available. It was then that my interest in Programming was sparked again. From then till today, I have been pursuing my passion for programming
+I have a public Notion board which displays all my GitHub repositories. I use this to keep my repositories consistent through the many changes I make to my GitHub profile. This Notion board can be accessed [from this link](https://zs1l3nt.notion.site/8ebb45edc82e4a6fafa3046a59fce9c2?v=c19a65a264514e6682c4736c5850a786). I wrote a [NodeJS syncing server](https://github.com/zS1L3NT/ts-github-notion-sync) to sync my GitHub repositories' data to this Notion board.
+
+In my more recent projects, I use emojis to decorate my commit messages. I am using [this GitHub Gist](https://gist.github.com/parmentf/035de27d6ed1dce0b36a) to decide what emoji to use for each commit message.
 
 ## 💻 What I'm working on **right now**
 
