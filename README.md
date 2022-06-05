@@ -21,7 +21,7 @@ In my more recent projects, I use emojis to decorate my commit messages. I am us
 
 Formby is a website like Google forms that I am submitting for a school assignment
 
-### [SounDroid (Android Flutter)](https://github.com/zS1L3NT/android-flutter-soundroid)
+### [SounDroid (Android Flutter)](https://github.com/zS1L3NT/dart-flutter-soundroid)
 
 I am rebuilding my [music streaming app](https://github.com/zS1L3NT/android-soundroid-v1) with new features and fewer bugs.
 
