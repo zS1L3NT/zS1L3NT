@@ -17,41 +17,37 @@ In my more recent projects, I use emojis to decorate my commit messages. I am us
 
 ## 💻 What I'm working on **right now**
 
-### [Formby (ReactTS & Laravel)](https://github.com/zS1L3NT/web-formby)
+### [Chess Engine (Tauri)](https://github.com/zS1L3NT/rs-tauri-chess)
 
-Formby is a website like Google forms that I am submitting for a school assignment
+I am rebuilding (for the third time) a chess engine where the frontend is implemented in React and the backend engine and position evaluation is written in Rust. I am hoping to create a Supervised Learning model to generate position evaluations. This project might be put on halt because of school submissions.
 
-### [SounDroid (Android Flutter)](https://github.com/zS1L3NT/dart-flutter-soundroid)
+### [Portfolio (RemixJS / NextJS)](https://github.com/zS1L3NT/web-react-portfolio)
 
-I am rebuilding my [music streaming app](https://github.com/zS1L3NT/android-soundroid-v1) with new features and fewer bugs.
-
-### [ZecJS (Rust)](https://github.com/zS1L3NT/rs-zecjs)
-
-I am attempting to build a JavaScript Interpreter fully in Rust.
+I have planned to rebuild my portfolio website for about a year now and hopefully this year I will be able to rebuild it.
 
 ## 🌱 What I'm currently learning
 
-### <img height=14 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/> Laravel
+### <img height=14 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png"/> WordPress
 
-I need to be very familiar with Laravel because in my Polytechnic, I will be training for a competition called WorldSkills which uses it
+I need to be very familiar with WordPress because I need it for my World Skills competition
 
-### <img height=16 src="https://symbols-electrical.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg"/> Rust
+### <img height=16 src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg"/> Tauri
 
-I am starting to love Rust because of how much flexibility we are given in the language
+I am trying out Tauri since it combines my two favourite technologies, React and Rust
 
 ## 😎 Some projects I'm proud of
 
 ### [SounDroid (Discord)](https://github.com/zS1L3NT/ts-discord-soundroid)
 
-SounDroid is a Discord bot that streams music from YouTube into a Discord voice channel. SounDroid is a stable bot that has received many fixes and feature updates over the past 6 months.
+SounDroid is a Discord bot that streams music from YouTube into a Discord voice channel. SounDroid is a stable project that has received many fixes and feature updates over the past 6 months.
 
 ### [Statify](https://github.com/zS1L3NT/web-react-statify)
 
 Statify is a website that shows users their top tracks and artists in their Spotify account.
 
-### [Validate Any](https://github.com/zS1L3NT/ts-npm-validate-any)
+### [Chess Engine](https://github.com/zS1L3NT/rs-tauri-chess)
 
-Validate Any is an npm package that checks the types of an object at runtime, and provides TypeScript annotations according to the validation schema you pass it. It was meant to solve invalid types at runtime.
+This is a Chess Engine written Rust that is almost completely stable where the engine should be bug free. This is verified by [Perft](https://www.chessprogramming.org/Perft) testing.
 
 ## ⚡ What I am familiar with
 
@@ -349,6 +345,21 @@ The progressbar displays my confidence in using a specific technology.
 		<td>
 			<img
 				height="16"
+				src="https://camo.githubusercontent.com/eec63163a5209f78e8b0e3d6ab82eb981d03c4453a7a466f4fdc063da09f2a4d/68747470733a2f2f692e696d6775722e636f6d2f454d796b5a62332e706e67"
+			/>
+		</td>
+		<td>Chakra UI</td>
+		<td>
+			<img
+				height="16"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/65"
+			/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img
+				height="16"
 				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
 			/>
 		</td>
@@ -359,8 +370,6 @@ The progressbar displays my confidence in using a specific technology.
 				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/55"
 			/>
 		</td>
-	</tr>
-	<tr>
 		<td>
 			<img
 				height="16"
@@ -372,19 +381,6 @@ The progressbar displays my confidence in using a specific technology.
 			<img
 				height="16"
 				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-			/>
-		</td>
-		<td>Android Development</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/65"
 			/>
 		</td>
 	</tr>
@@ -417,6 +413,19 @@ The progressbar displays my confidence in using a specific technology.
 		</td>
 	</tr>
 	<tr>
+		<td>
+			<img
+				height="16"
+				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
+			/>
+		</td>
+		<td>Android Development</td>
+		<td>
+			<img
+				height="16"
+				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/65"
+			/>
+		</td>
 		<td>
 			<img
 				height="16"
