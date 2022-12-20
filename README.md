@@ -1,9 +1,13 @@
-![Banner](https://raw.githubusercontent.com/zS1L3NT/zS1L3NT/main/banner.png)
-[![LeetCode](https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23ffb41e)](https://leetcode.com/zS1L3NT/) [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48224.svg?style=for-the-badge&logo=stackoverflow&logoColor=%23FFFFFF)](https://stackoverflow.com/users/7544646/zs1l3nt)  [![SoloLearn](https://img.shields.io/badge/sololearn-%232AA7FD.svg?style=for-the-badge&logo=sololearn&logoColor=%23FFFFFF)](https://www.sololearn.com/profile/4581584) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zechariah-sg/)
+![Banner](https://res.cloudinary.com/zs1l3nt/image/upload/repositories/zS1L3NT/banner.png)
+[![LeetCode](https://img.shields.io/badge/leetcode-000000.svg?style=for-the-badge&logo=leetcode&logoColor=ffb41e)](https://leetcode.com/zS1L3NT/)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-F48224.svg?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF)](https://stackoverflow.com/users/7544646/zs1l3nt)
+[![SoloLearn](https://img.shields.io/badge/sololearn-2AA7FD.svg?style=for-the-badge&logo=sololearn&logoColor=FFFFFF)](https://www.sololearn.com/profile/4581584)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zechariah-sg/)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zS1L3NT&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=4C8EDA&ring=4C8EDA&stroke=4C8EDA)
-![GitHub Statistics](https://github-readme-stats.vercel.app/api/?username=zS1L3NT&count_private=true&theme=github_dark&show_icons=true&hide_border=true)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zS1L3NT&theme=github_dark&layout=compact&hide_border=true)
+<div align="center">
+	<img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zS1L3NT&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=4C8EDA&ring=4C8EDA&stroke=4C8EDA" alt="GitHub Stream">
+	<img width="49.7%" height="100%" src="https://github-readme-stats.vercel.app/api/?username=zS1L3NT&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
+</div>
 
 ## 👋 Introduction
 
@@ -17,560 +21,101 @@ In my more recent projects, I use emojis to decorate my commit messages. I am us
 
 ## 💻 What I'm working on **right now**
 
-### [Chess Engine (Tauri)](https://github.com/zS1L3NT/rs-tauri-chess)
-
-I am rebuilding (for the third time) a chess engine where the frontend is implemented in React and the backend engine and position evaluation is written in Rust. I am hoping to create a Supervised Learning model to generate position evaluations. This project might be put on halt because of school submissions.
-
-### [Portfolio (RemixJS / NextJS)](https://github.com/zS1L3NT/web-react-portfolio)
-
-I have planned to rebuild my portfolio website for about a year now and hopefully this year I will be able to rebuild it.
-
-## 🌱 What I'm currently learning
-
-### <img height=14 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png"/> WordPress
-
-I need to be very familiar with WordPress because I need it for my World Skills competition
-
-### <img height=16 src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg"/> Tauri
-
-I am trying out Tauri since it combines my two favourite technologies, React and Rust
+<div align="center">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-reminder&theme=github_dark&hide_border=true" alt="ts-discord-reminder">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-monetary&theme=github_dark&hide_border=true" alt="web-monetary">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-react-portfolio&theme=github_dark&hide_border=true" alt="web-react-portfolio">
+</div>
 
 ## 😎 Some projects I'm proud of
 
-### [SounDroid (Discord)](https://github.com/zS1L3NT/ts-discord-soundroid)
+<div align="center">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-soundroid&theme=github_dark&hide_border=true" alt="ts-discord-soundroid">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=soundroid-v2&theme=github_dark&hide_border=true" alt="soundroid-v2">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=rs-tauri-chess&theme=github_dark&hide_border=true" alt="rs-tauri-chess">
+</div>
 
-SounDroid is a Discord bot that streams music from YouTube into a Discord voice channel. SounDroid is a stable project that has received many fixes and feature updates over the past 6 months.
-
-### [Statify](https://github.com/zS1L3NT/web-react-statify)
-
-Statify is a website that shows users their top tracks and artists in their Spotify account.
-
-### [Chess Engine](https://github.com/zS1L3NT/rs-tauri-chess)
-
-This is a Chess Engine written Rust that is almost completely stable where the engine should be bug free. This is verified by [Perft](https://www.chessprogramming.org/Perft) testing.
+<div align="center">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-formby&theme=github_dark&hide_border=true" alt="web-formby">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=deskpower&theme=github_dark&hide_border=true" alt="deskpower">
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-react-statify&theme=github_dark&hide_border=true" alt="web-react-statify">
+</div>
 
 ## ⚡ What I am familiar with
 
 I spend almost all my time on a few large projects. When I have free time, I explore new technologies.
-The progressbar displays my confidence in using a specific technology.
 
-<table>
-	<tr>
-		<th colspan="6">Languages & Runtimes</th>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-			/>
-		</td>
-		<td>TypeScript</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-			/>
-		</td>
-		<td>JavaScript</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-			/>
-		</td>
-		<td>Node</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://symbols-electrical.getvecta.com/stencil_94/126_rust-language-icon.1652c6341b.svg"
-			/>
-		</td>
-		<td>Rust</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/70"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-			/>
-		</td>
-		<td>PHP</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/60"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-			/>
-		</td>
-		<td>HTML</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/95"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-			/>
-		</td>
-		<td>CSS</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-			/>
-		</td>
-		<td>SCSS</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-			/>
-		</td>
-		<td>Python</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://brandslogos.com/wp-content/uploads/images/c-logo.png"
-			/>
-		</td>
-		<td>C++</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/30"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-			/>
-		</td>
-		<td>Java</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/95"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-			/>
-		</td>
-		<td>Kotlin</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-			/>
-		</td>
-		<td>C#</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/45"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<th colspan="6">Frameworks</th>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-			/>
-		</td>
-		<td>React</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-			/>
-		</td>
-		<td>Next</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/70"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-			/>
-		</td>
-		<td>Vue</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/75"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-			/>
-		</td>
-		<td>Angular</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/20"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://www.svgrepo.com/show/353655/discord-icon.svg"
-			/>
-		</td>
-		<td>DiscordJS</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
-			/>
-		</td>
-		<td>Laravel</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/60"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-			/>
-		</td>
-		<td>Material UI</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://camo.githubusercontent.com/eec63163a5209f78e8b0e3d6ab82eb981d03c4453a7a466f4fdc063da09f2a4d/68747470733a2f2f692e696d6775722e636f6d2f454d796b5a62332e706e67"
-			/>
-		</td>
-		<td>Chakra UI</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/65"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-			/>
-		</td>
-		<td>Bootstrap</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/55"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-			/>
-		</td>
-		<td>TailWind</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-			/>
-		</td>
-		<td>React Native</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-			/>
-		</td>
-		<td>Flutter</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-			/>
-		</td>
-		<td>Android Development</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/65"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
-			/>
-		</td>
-		<td>Unity</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<th colspan="6">Cloud & Databases</th>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png"
-			/>
-		</td>
-		<td>Firebase</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://i.ibb.co/6Y95vMQ/firebase-authentication.png"
-			/>
-		</td>
-		<td>Firebase Authentication</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/75"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://i.ibb.co/6Y95vMQ/firebase-authentication.png"
-			/>
-		</td>
-		<td>Firebase Firestore</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/95"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://i.ibb.co/RTS9DFC/firebase-realtimedb.png"
-			/>
-		</td>
-		<td>Firebase RealtimeDB</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/85"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-			/>
-		</td>
-		<td>MongoDB</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/70"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-			/>
-		</td>
-		<td>MySQL</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<th colspan="6">Tools</th>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-			/>
-		</td>
-		<td>Git</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/70"
-			/>
-		</td>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-			/>
-		</td>
-		<td>NGINX</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40"
-			/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				height="16"
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-			/>
-		</td>
-		<td>Linux</td>
-		<td>
-			<img
-				height="16"
-				src="https://us-central1-progress-markdown.cloudfunctions.net/progress/45"
-			/>
-		</td>
-	</tr>
-</table>
+### ⭐ Languages & Runtimes
+
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=whitephp)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-FF6C37?style=for-the-badge&logo=data:image/png;base64,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NS00NmYzLWJmMDYtMzdlNjcxODljYWU0IgogICB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjUyMDEyZDBmLTc0MDQtNGE5Yi04YmVhLTZiZjIxOGIwNTc0MCIKICAgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmYyNDY2OWMwLWYyMzQtNDExOC05MmUwLWIxZjA1ZWY1ZTFjOCIKICAgZGM6Rm9ybWF0PSJpbWFnZS9wbmciCiAgIEdJTVA6QVBJPSIyLjAiCiAgIEdJTVA6UGxhdGZvcm09IkxpbnV4IgogICBHSU1QOlRpbWVTdGFtcD0iMTY3MTU1MjkwMjk3MzE5NCIKICAgR0lNUDpWZXJzaW9uPSIyLjEwLjMyIgogICB0aWZmOk9yaWVudGF0aW9uPSIxIgogICB4bXA6Q3JlYXRvclRvb2w9IkdJTVAgMi4xMCIKICAgeG1wOk1ldGFkYXRhRGF0ZT0iMjAyMjoxMjoyMVQwMDoxNTowMiswODowMCIKICAgeG1wOk1vZGlmeURhdGU9IjIwMjI6MTI6MjFUMDA6MTU6MDIrMDg6MDAiPgogICA8eG1wTU06SGlzdG9yeT4KICAgIDxyZGY6U2VxPgogICAgIDxyZGY6bGkKICAgICAgc3RFdnQ6YWN0aW9uPSJzYXZlZCIKICAgICAgc3RFdnQ6Y2hhbmdlZD0iLyIKICAgICAgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDozZjFmNjQ1NS05YThiLTQ1MWMtODA2NS0wMjA5NmY1ZTI0MDIiCiAgICAgIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkdpbXAgMi4xMCAoTGludXgpIgogICAgICBzdEV2dDp3aGVuPSIyMDIyLTEyLTIxVDAwOjE1OjAyKzA4OjAwIi8+CiAgICA8L3JkZjpTZXE+CiAgIDwveG1wTU06SGlzdG9yeT4KICA8L3JkZjpEZXNjcmlwdGlvbj4KIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAKPD94cGFja2V0IGVuZD0idyI/PjHZTjgAAAMAUExURQAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA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&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚖️ Frameworks
+
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![DiscordJS](https://img.shields.io/badge/discordjs-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Material UI](https://img.shields.io/badge/material%20ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/chakra%20ui-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### ☁️ Cloud Services
+
+![Firebase Authentication](https://img.shields.io/badge/authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Firestore](https://img.shields.io/badge/firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase RealtimeDB](https://img.shields.io/badge/realtimedb-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Functions](https://img.shields.io/badge/functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/aws%20ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/aws%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/aws%20lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/cockroach%20labs-6933FF?style=for-the-badge&logo=cockroach-labs&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNzIuOCAxMTMuMTgiPgoJPGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmZmZmY7fTwvc3R5bGU+PC9kZWZzPjxnIGlkPSJMYXllcl8yIiBkYXRhLW5hbWU9IkxheWVyIDIiPjxnIGlkPSJMYXllcl8xLTIiIGRhdGEtbmFtZT0iTGF5ZXIgMSI+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTQwLjI1LDQwLjI3QTU3Ljg0LDU3Ljg0LDAsMCwwLDg1LjU2LDAsNTYuNzUsNTYuNzUsMCwwLDAsMzUuMjQsMjkuOWE0Mi43OSw0Mi43OSwwLDAsMC0xMC4zMyw4MWwxLjA4LjVoLjA2Vjk5LjIzYTMxLjk1LDMxLjk1LDAsMCwxLDEzLjMxLTU5bDMtLjMxLDEuMzEtMi43NEE0Niw0NiwwLDAsMSw4NS41NiwxMC44NWE0Ni44Myw0Ni44MywwLDAsMSw0NS4xOSwzNS43OWwxLDQuMTEsNC4yMy4wN2EyNi41NiwyNi41NiwwLDAsMSwyNiwyNi40NGMwLDEwLjExLTUuODMsMTguMzYtMTUuNzIsMjIuNTV2MTEuNTVsLjcxLS4yNGMxNS45NS01LjIxLDI1Ljg2LTE4LjE5LDI1Ljg2LTMzLjg2QTM3LjQ5LDM3LjQ5LDAsMCwwLDE0MC4yNSw0MC4yN1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik02NC41NiwxMTBsMi4zOCwyLjM4YS40Ny40NywwLDAsMS0uMzQuODFINDcuODRhOC41Myw4LjUzLDAsMCwxLTguNTQtOC41M1Y2OC4xNGEuNDcuNDcsMCwwLDAtLjQ3LS40N0gzNC43NmEuNDguNDgsMCwwLDEtLjM0LS44MUw1MC4zNSw1MC45NGEuNDYuNDYsMCwwLDEsLjY3LDBMNjYuOTQsNjYuODZhLjQ3LjQ3LDAsMCwxLS4zNC44MUg2Mi41M2EuNDcuNDcsMCwwLDAtLjQ3LjQ3VjEwNEE4LjUzLDguNTMsMCwwLDAsNjQuNTYsMTEwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTk5Ljc2LDExMGwyLjM4LDIuMzhhLjQ3LjQ3LDAsMCwxLS4zNC44MUg4M2E4LjUzLDguNTMsMCwwLDEtOC41NC04LjUzVjc3LjMyYS40Ny40NywwLDAsMC0uNDctLjQ4SDcwYS40OC40OCwwLDAsMS0uMzQtLjgxTDg1LjU1LDYwLjExYS40Ni40NiwwLDAsMSwuNjcsMEwxMDIuMTQsNzZhLjQ3LjQ3LDAsMCwxLS4zNC44MUg5Ny43M2EuNDcuNDcsMCwwLDAtLjQ3LjQ4VjEwNEE4LjUzLDguNTMsMCwwLDAsOTkuNzYsMTEwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEzNSwxMTBsMi4zOCwyLjM4YS40Ny40NywwLDAsMS0uMzMuODFIMTE4LjI0YTguNTQsOC41NCwwLDAsMS04LjU0LTguNTNWODYuNDlhLjQ3LjQ3LDAsMCwwLS40Ny0uNDdoLTQuMDdhLjQ3LjQ3LDAsMCwxLS4zMy0uODFsMTUuOTItMTUuOTNhLjQ4LjQ4LDAsMCwxLC42NywwbDE1LjkyLDE1LjkzQS40Ny40NywwLDAsMSwxMzcsODZoLTQuMDhhLjQ3LjQ3LDAsMCwwLS40Ny40N1YxMDRBOC41Myw4LjUzLDAsMCwwLDEzNSwxMTBaIi8+PC9nPjwvZz48L3N2Zz4=)
+![Fly.io](https://img.shields.io/badge/fly.io-A597E4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCIgdmlld0JveD0iMTc0Ljk1IDIzLjQ2IDE0OS45OCAyMzUuMzUiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsMjgyLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSJub25lIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMTgxYTFiOyAtLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTpub25lOyI+CjxwYXRoIGQ9Ik0yMzY3IDI1NzkgYy0yNDAgLTMzIC00NTEgLTE3NiAtNTQ1IC0zNjkgLTY4IC0xNDAgLTkxIC0zMjMgLTU3IC00NTQgNjIgLTIzNiAyNzMgLTU0MyA2MDkgLTg4NCA2MSAtNjEgMTE4IC0xMTIgMTI3IC0xMTIgMjAgMCAyNTYgMjQyIDM2OSAzNzkgMTcyIDIwNiAyODcgMzkxIDM0MyA1NDUgMzggMTA0IDQ3IDI1MiAyMyAzNjYgLTUzIDI1MCAtMjQ2IDQ0MyAtNTEwIDUxMCAtOTMgMjMgLTI2MyAzMyAtMzU5IDE5eiBtMTEzIC04NTYgYy0xIC02ODIgLTIgLTc1NiAtMTYgLTczOCAtMjYgMzQgLTE0OSAyOTQgLTE5OCA0MTggLTI2IDY1IC02MSAxNzAgLTc4IDIzNSAtMzAgMTA4IC0zMiAxMjkgLTMyIDI3MiAxIDE2NyAxNyAyNTQgNjggMzY2IDQ4IDEwNCAxNjAgMTk3IDI0NCAyMDMgOSAxIDEyIC0xNTcgMTIgLTc1NnogbTI1NSA3MzYgYzExNiAtMzIgMjQ0IC0xMjAgMzEyIC0yMTYgODAgLTExMiAxMjMgLTI4NyAxMDIgLTQxNiAtMzEgLTE5MCAtMTc4IC00MjggLTQ1NiAtNzQwIC01MyAtNTkgLTk4IC0xMDUgLTEwMSAtMTAzIC0yIDMgMjUgNjUgNjEgMTM4IDExNyAyNDEgMTkyIDQ1MiAyMjIgNjI3IDQ1IDI1NyAtMjkgNTYxIC0xNjggNjgzIC00NCA0MCAtMzkgNDUgMjggMjd6Ii8+CjxwYXRoIGQ9Ik0yNDIxIDU1NSBjLTc1IC04MSAtOTQgLTExNyAtOTUgLTE3OCAwIC01OCAyNCAtOTQgODQgLTEyNCA4MSAtNDIgMTk0IC0xOSAyNDQgNDkgMjUgMzUgMjYgMTEwIDMgMTU1IC0yNSA0NyAtMTM2IDE2MyAtMTU3IDE2MyAtMTAgMCAtNDUgLTI5IC03OSAtNjV6Ii8+CjwvZz4KPC9zdmc+&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### 🔧 Development Environment
+
+![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)
+![Windows 11](https://img.shields.io/badge/windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+![VSCode Insiders](https://img.shields.io/badge/visual%20studio%20code%20insiders-1FC0A7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![XCode](https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/github%20desktop-6A2288?style=for-the-badge&logo=github&logoColor=white)
+![GitKraken](https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/anydesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🛫 DevOps & Deployment Tools
+
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![pm2](https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
