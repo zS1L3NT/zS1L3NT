@@ -22,23 +22,41 @@ In my more recent projects, I use emojis to decorate my commit messages. I am us
 ## 💻 What I'm working on **right now**
 
 <div align="center">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-reminder&theme=github_dark&hide_border=true" alt="ts-discord-reminder">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-monetary&theme=github_dark&hide_border=true" alt="web-monetary">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-react-portfolio&theme=github_dark&hide_border=true" alt="web-react-portfolio">
+	<a href="https://github.com/zS1L3NT/ts-discord-reminder">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-reminder&theme=github_dark&hide_border=true" alt="ts-discord-reminder">
+	</a>
+	<a href="https://github.com/zS1L3NT/web-monetary">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-monetary&theme=github_dark&hide_border=true" alt="web-monetary">
+	</a>
+	<a href="https://github.com/zS1L3NT/web-react-portfolio">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-react-portfolio&theme=github_dark&hide_border=true" alt="web-react-portfolio">
+	</a>
 </div>
 
 ## 😎 Some projects I'm proud of
 
 <div align="center">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-soundroid&theme=github_dark&hide_border=true" alt="ts-discord-soundroid">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=soundroid-v2&theme=github_dark&hide_border=true" alt="soundroid-v2">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=rs-tauri-chess&theme=github_dark&hide_border=true" alt="rs-tauri-chess">
+	<a href="https://github.com/zS1L3NT/ts-discord-reminder">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-soundroid&theme=github_dark&hide_border=true" alt="ts-discord-soundroid">
+	</a>
+	<a href="https://github.com/zS1L3NT/soundroid-v2">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=soundroid-v2&theme=github_dark&hide_border=true" alt="soundroid-v2">
+	</a>
+	<a href="https://github.com/zS1L3NT/rs-tauri-chess">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=rs-tauri-chess&theme=github_dark&hide_border=true" alt="rs-tauri-chess">
+	</a>
 </div>
 
 <div align="center">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-formby&theme=github_dark&hide_border=true" alt="web-formby">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=deskpower&theme=github_dark&hide_border=true" alt="deskpower">
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-react-statify&theme=github_dark&hide_border=true" alt="web-react-statify">
+	<a href="https://github.com/zS1L3NT/web-formby">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-formby&theme=github_dark&hide_border=true" alt="web-formby">
+	</a>
+	<a href="https://github.com/zS1L3NT/deskpower">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=deskpower&theme=github_dark&hide_border=true" alt="deskpower">
+	</a>
+	<a href="https://github.com/zS1L3NT/web-react-statify">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-react-statify&theme=github_dark&hide_border=true" alt="web-react-statify">
+	</a>
 </div>
 
 ## ⚡ What I am familiar with
@@ -67,6 +85,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Vue](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![DiscordJS](https://img.shields.io/badge/discordjs-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-1B769C?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Material UI](https://img.shields.io/badge/material%20ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -115,6 +134,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
