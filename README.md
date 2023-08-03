@@ -22,14 +22,8 @@ In my more recent projects, I use emojis to decorate my commit messages. I am us
 ## 💻 What I'm working on **right now**
 
 <div align="center">
-	<a href="https://github.com/zS1L3NT/ts-discord-reminder">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-reminder&theme=github_dark&hide_border=true" alt="ts-discord-reminder">
-	</a>
-	<a href="https://github.com/zS1L3NT/web-monetary">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-monetary&theme=github_dark&hide_border=true" alt="web-monetary">
-	</a>
-	<a href="https://github.com/zS1L3NT/web-react-portfolio">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-react-portfolio&theme=github_dark&hide_border=true" alt="web-react-portfolio">
+	<a href="https://github.com/zS1L3NT/ts-npm-ytmusic-api">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-npm-ytmusic-api&theme=github_dark&hide_border=true" alt="ts-npm-ytmusic-api">
 	</a>
 </div>
 
@@ -37,7 +31,7 @@ In my more recent projects, I use emojis to decorate my commit messages. I am us
 
 <div align="center">
 	<a href="https://github.com/zS1L3NT/ts-discord-reminder">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-soundroid&theme=github_dark&hide_border=true" alt="ts-discord-soundroid">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-reminder&theme=github_dark&hide_border=true" alt="ts-discord-reminder">
 	</a>
 	<a href="https://github.com/zS1L3NT/soundroid-v2">
 		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=soundroid-v2&theme=github_dark&hide_border=true" alt="soundroid-v2">
@@ -48,14 +42,14 @@ In my more recent projects, I use emojis to decorate my commit messages. I am us
 </div>
 
 <div align="center">
-	<a href="https://github.com/zS1L3NT/web-formby">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-formby&theme=github_dark&hide_border=true" alt="web-formby">
+	<a href="https://github.com/zS1L3NT/ts-npm-ytmusic-api">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-npm-ytmusic-api&theme=github_dark&hide_border=true" alt="ts-npm-ytmusic-api">
 	</a>
 	<a href="https://github.com/zS1L3NT/deskpower">
 		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=deskpower&theme=github_dark&hide_border=true" alt="deskpower">
 	</a>
-	<a href="https://github.com/zS1L3NT/web-react-statify">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=web-react-statify&theme=github_dark&hide_border=true" alt="web-react-statify">
+	<a href="https://github.com/zS1L3NT/ts-discord-soundroid">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-soundroid&theme=github_dark&hide_border=true" alt="ts-discord-soundroid">
 	</a>
 </div>
 
