@@ -78,7 +78,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![VueJS](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/sprint%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-1B769C?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Mantine UI](https://img.shields.io/badge/mantine%20ui-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
