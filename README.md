@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zechariah-sg/)
 
 <div align="center">
-	<img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zS1L3NT&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=4C8EDA&ring=4C8EDA&stroke=4C8EDA" alt="GitHub Stream">
+	<img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zS1L3NT&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=4C8EDA&ring=4C8EDA&stroke=4C8EDA" alt="GitHub Streak">
 	<img width="49.7%" height="100%" src="https://github-readme-stats.vercel.app/api/?username=zS1L3NT&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
 </div>
 
@@ -16,8 +16,8 @@ Hello! I am Zechariah Tan from Singapore. I love building websites, servers, scr
 ## 💻 What I'm working on **right now**
 
 <div align="center">
-	<a href="https://github.com/zS1L3NT/ts-burp-accelerator">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-burp-accelerator&theme=github_dark&hide_border=true" alt="ts-burp-accelerator">
+	<a href="https://github.com/zS1L3NT/therook">
+		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=therook&theme=github_dark&hide_border=true" alt="therook">
 	</a>
 	<a href="https://github.com/zS1L3NT/ts-npm-ytmusic-api">
 		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-npm-ytmusic-api&theme=github_dark&hide_border=true" alt="ts-npm-ytmusic-api">
@@ -137,6 +137,3 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![pm2](https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
-## 📈 My Contributions in 3D
-
-![Contributions](https://res.cloudinary.com/zs1l3nt/raw/upload/repositories/zS1L3NT/contributions.svg)
