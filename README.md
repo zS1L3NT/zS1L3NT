@@ -1,60 +1,30 @@
-![Banner](https://res.cloudinary.com/zs1l3nt/image/upload/repositories/zS1L3NT/banner.jpg)
-[![LeetCode](https://img.shields.io/badge/leetcode-000000.svg?style=for-the-badge&logo=leetcode&logoColor=ffb41e)](https://leetcode.com/zS1L3NT/)
-[![StackOverflow](https://img.shields.io/badge/stackoverflow-F48224.svg?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF)](https://stackoverflow.com/users/7544646/zs1l3nt)
-[![SoloLearn](https://img.shields.io/badge/sololearn-2AA7FD.svg?style=for-the-badge&logo=sololearn&logoColor=FFFFFF)](https://www.sololearn.com/profile/4581584)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zechariah-sg/)
+# Hi there! 
 
-<div align="center">
-	<img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zS1L3NT&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=4C8EDA&ring=4C8EDA&stroke=4C8EDA" alt="GitHub Streak">
-	<img width="49.7%" height="100%" src="https://github-readme-stats.vercel.app/api/?username=zS1L3NT&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
-</div>
+My name is Zechariah from Singapore. I love building stuff for myself and for others!
 
-## 👋 Introduction
-
-Hello! I am Zechariah Tan from Singapore. I love building websites, servers, scripts and bots for myself and friends for fun, but hope to make a living through it. The majority of what I've built so far was to solve issues I face a lot. This could be in the form of creating something that increases my productivity or automates a monotonous task. I hope to be able to build something that will help you too!
-
-## 💻 What I'm working on **right now**
-
-<div align="center">
-	<a href="https://github.com/zS1L3NT/therook">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=therook&theme=github_dark&hide_border=true" alt="therook">
-	</a>
-	<a href="https://github.com/zS1L3NT/ts-npm-ytmusic-api">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-npm-ytmusic-api&theme=github_dark&hide_border=true" alt="ts-npm-ytmusic-api">
-	</a>
-</div>
+- ⌛ I've been building software for 6 years
+- 💻 I'm doing a degree in [Computer Science at NUS](https://www.comp.nus.edu.sg/programmes/ug/cs/)
+- 🏆 I won a [Bronze Medal in Web Technologies](https://results.worldskills.org/results?event=579&offset=0&skill=1693&base_skill=127) at [WorldSkills International 2024](https://worldskills2024.com)
+- 📱 I'm currently learning SwiftUI
 
 ## 😎 Some projects I'm proud of
 
-<div align="center">
-	<a href="https://github.com/zS1L3NT/ts-discord-reminder">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-reminder&theme=github_dark&hide_border=true" alt="ts-discord-reminder">
-	</a>
-	<a href="https://github.com/zS1L3NT/soundroid-v2">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=soundroid-v2&theme=github_dark&hide_border=true" alt="soundroid-v2">
-	</a>
-	<a href="https://github.com/zS1L3NT/rs-tauri-chess">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=rs-tauri-chess&theme=github_dark&hide_border=true" alt="rs-tauri-chess">
-	</a>
-</div>
-
-<div align="center">
-	<a href="https://github.com/zS1L3NT/ts-npm-ytmusic-api">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-npm-ytmusic-api&theme=github_dark&hide_border=true" alt="ts-npm-ytmusic-api">
-	</a>
-	<a href="https://github.com/zS1L3NT/deskpower">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=deskpower&theme=github_dark&hide_border=true" alt="deskpower">
-	</a>
-	<a href="https://github.com/zS1L3NT/ts-discord-soundroid">
-		<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=zS1L3NT&repo=ts-discord-soundroid&theme=github_dark&hide_border=true" alt="ts-discord-soundroid">
-	</a>
-</div>
+- [Reminder Bot](https://github.com/zS1L3NT/ts-discord-reminder) - A discord bot that sends reminders to a server of certain important dates. I created this for my class in Polytechnic to remind everyone of assignment submissions, exam dates and special events.
+- [SounDroid Bot](https://github.com/zS1L3NT/ts-discord-soundroid) - A discord bot that played music in voice channels with many advanced features that solved the use cases that my users had. Some special features include more complex searching and auto-nickname based on currently playing.
+- [SounDroid v2](https://github.com/zS1L3NT/soundroid-v2) - A flutter-based music playing application & server that I personally used for a while in place of Spotify / YouTube Music. It allowed online search, song downloading and song recommendations.
+- [YTMusic API](https://github.com/zS1L3NT/ts-npm-ytmusic-api) - An npm package that allows scraping YouTube Music for information about Songs, Artists, Albums and Search results. This project powered a few of my audio-related projects on my portfolio.
+- [DeskPower](https://github.com/zS1L3NT/deskpower) - A service that helped me trigger the power switch on my desktop remotely. This consists of an ESP8266 chip wired up to my desktop's power button, a flutter app for remote control, and a server to sync everything.
+- [Finpoint](https://github.com/zS1L3NT/finpoint) - A service that helps me manage my personal finances. You import your bank statements, then create & allocate financial records based-off your bank statement amounts,  allowing full fine-grained financial tracking.
 
 ## ⚡ What I am familiar with
 
 I spend almost all my time on a few large projects. When I have free time, I explore new technologies.
 
-### ⭐ Languages & Runtimes
+<details>
+<summary>
+	<b>⭐ Languages & Runtimes</b>
+</summary>
+<br />
 
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -70,7 +40,14 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### ⚖️ Frameworks
+</details>
+
+
+<details>
+<summary>
+	<b>⚖️ Frameworks</b>
+</summary>
+<br />
 
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![DiscordJS](https://img.shields.io/badge/discordjs-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -91,7 +68,14 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ☁️ Cloud Services
+</details>
+
+
+<details>
+<summary>
+	<b>️☁️ Cloud Services</b>
+</summary>
+<br />
 
 ![AWS EC2](https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
@@ -110,7 +94,14 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Fly.io](https://img.shields.io/badge/fly.io-A597E4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCIgdmlld0JveD0iMTc0Ljk1IDIzLjQ2IDE0OS45OCAyMzUuMzUiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsMjgyLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSJub25lIiBkYXRhLWRhcmtyZWFkZXItaW5saW5lLWZpbGw9IiIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1zdHJva2U9IiIgc3R5bGU9Ii0tZGFya3JlYWRlci1pbmxpbmUtZmlsbDojMTgxYTFiOyAtLWRhcmtyZWFkZXItaW5saW5lLXN0cm9rZTpub25lOyI+CjxwYXRoIGQ9Ik0yMzY3IDI1NzkgYy0yNDAgLTMzIC00NTEgLTE3NiAtNTQ1IC0zNjkgLTY4IC0xNDAgLTkxIC0zMjMgLTU3IC00NTQgNjIgLTIzNiAyNzMgLTU0MyA2MDkgLTg4NCA2MSAtNjEgMTE4IC0xMTIgMTI3IC0xMTIgMjAgMCAyNTYgMjQyIDM2OSAzNzkgMTcyIDIwNiAyODcgMzkxIDM0MyA1NDUgMzggMTA0IDQ3IDI1MiAyMyAzNjYgLTUzIDI1MCAtMjQ2IDQ0MyAtNTEwIDUxMCAtOTMgMjMgLTI2MyAzMyAtMzU5IDE5eiBtMTEzIC04NTYgYy0xIC02ODIgLTIgLTc1NiAtMTYgLTczOCAtMjYgMzQgLTE0OSAyOTQgLTE5OCA0MTggLTI2IDY1IC02MSAxNzAgLTc4IDIzNSAtMzAgMTA4IC0zMiAxMjkgLTMyIDI3MiAxIDE2NyAxNyAyNTQgNjggMzY2IDQ4IDEwNCAxNjAgMTk3IDI0NCAyMDMgOSAxIDEyIC0xNTcgMTIgLTc1NnogbTI1NSA3MzYgYzExNiAtMzIgMjQ0IC0xMjAgMzEyIC0yMTYgODAgLTExMiAxMjMgLTI4NyAxMDIgLTQxNiAtMzEgLTE5MCAtMTc4IC00MjggLTQ1NiAtNzQwIC01MyAtNTkgLTk4IC0xMDUgLTEwMSAtMTAzIC0yIDMgMjUgNjUgNjEgMTM4IDExNyAyNDEgMTkyIDQ1MiAyMjIgNjI3IDQ1IDI1NyAtMjkgNTYxIC0xNjggNjgzIC00NCA0MCAtMzkgNDUgMjggMjd6Ii8+CjxwYXRoIGQ9Ik0yNDIxIDU1NSBjLTc1IC04MSAtOTQgLTExNyAtOTUgLTE3OCAwIC01OCAyNCAtOTQgODQgLTEyNCA4MSAtNDIgMTk0IC0xOSAyNDQgNDkgMjUgMzUgMjYgMTEwIDMgMTU1IC0yNSA0NyAtMTM2IDE2MyAtMTU3IDE2MyAtMTAgMCAtNDUgLTI5IC03OSAtNjV6Ii8+CjwvZz4KPC9zdmc+&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 🔧 Development Environment
+</details>
+
+
+<details>
+<summary>
+	<b>🔧 Development Environment</b>
+</summary>
+<br />
 
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)
@@ -126,7 +117,14 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🛫 DevOps & Deployment Tools
+</details>
+
+
+<details>
+<summary>
+	<b>🛫 DevOps & Deployment Tools</b>
+</summary>
+<br />
 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -137,3 +135,6 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![pm2](https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
+</details>
+
+> Last updated: 13 November 2023
