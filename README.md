@@ -5,17 +5,14 @@ My name is Zechariah from Singapore. I love building stuff for myself and for ot
 - ⌛ I've been building software for 6 years
 - 💻 I'm doing a degree in [Computer Science at NUS](https://www.comp.nus.edu.sg/programmes/ug/cs/)
 - 🏆 I won a [Bronze Medal in Web Technologies](https://results.worldskills.org/results?event=579&offset=0&skill=1693&base_skill=127) at [WorldSkills International 2024](https://worldskills2024.com)
-- 📱 I'm currently learning SwiftUI
+- 📱 I'm currently studying Data Structures & Algorithms at depth!
 
 ## 😎 Some projects I'm proud of
 
-- [Reminder Bot](https://github.com/zS1L3NT/ts-discord-reminder) - A discord bot that sends reminders to a server of certain important dates. I created this for my class in Polytechnic to remind everyone of assignment submissions, exam dates and special events.
-- [SounDroid Bot](https://github.com/zS1L3NT/ts-discord-soundroid) - A discord bot that played music in voice channels with many advanced features that solved the use cases that my users had. Some special features include more complex searching and auto-nickname based on currently playing.
-- [SounDroid v2](https://github.com/zS1L3NT/soundroid-v2) - A flutter-based music playing application & server that I personally used for a while in place of Spotify / YouTube Music. It allowed online search, song downloading and song recommendations.
 - [YTMusic API](https://github.com/zS1L3NT/ts-npm-ytmusic-api) - An npm package that allows scraping YouTube Music for information about Songs, Artists, Albums and Search results. This project powered a few of my audio-related projects on my portfolio.
-- [DeskPower](https://github.com/zS1L3NT/deskpower) - A service that helped me trigger the power switch on my desktop remotely. This consists of an ESP8266 chip wired up to my desktop's power button, a flutter app for remote control, and a server to sync everything.
-- [Finpoint](https://github.com/zS1L3NT/finpoint) - A service that helps me manage my personal finances. You import your bank statements, then create & allocate financial records based-off your bank statement amounts,  allowing full fine-grained financial tracking.
-
+- [Finpoint](https://github.com/zS1L3NT/finpoint) - An advanced financial tracker that I use daily, built around your exported bank statements. Your labelled financial records must be directly linked to your bank statements for perfect accounting of expenses.
+- [TheRook](https://github.com/zS1L3NT/therook) - My strongest and fastest Chess Engine and AI, implemented using bitboards and an iterative-deepening negamax search with alpha-beta pruning, captures-only quiescence and tapered evaluation.
+- [SounDroid v2](https://github.com/zS1L3NT/soundroid-v2) - A flutter-based music playing application & server that I personally used for a while in place of Spotify / YouTube Music. It allowed online search, song downloading and song recommendations.
 ## ⚡ What I am familiar with
 
 I spend almost all my time on a few large projects. When I have free time, I explore new technologies.
@@ -36,6 +33,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=whitephp)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-EF5923?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-FF6C37?style=for-the-badge&logoColor=white&logo=data:image/png;base64,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)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -63,7 +61,7 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 ![Material UI](https://img.shields.io/badge/material%20ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/swiftui-008AF9?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -137,4 +135,4 @@ I spend almost all my time on a few large projects. When I have free time, I exp
 
 </details>
 
-> Last updated: 13 November 2023
+> Last updated: 19 September 2026
